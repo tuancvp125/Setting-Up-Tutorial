@@ -18,6 +18,7 @@
 ##### Shellcoding
 ##### Bypass Canary | ASLR | PIE
 #### Heap
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ##### Heap overflow
 ##### Structure
 ###### Chunk
