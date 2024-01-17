@@ -20,6 +20,9 @@
 #### Heap
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ##### Heap overflow
+```
+$ echo 'Fuck pwn'
+```
 ##### Structure
 ###### Chunk
 ###### Metadata of a chunk
