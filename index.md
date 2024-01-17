@@ -24,7 +24,7 @@
 $ echo 'Fuck pwn'
 ```
 ##### Structure
--  [ ]  Calculus 3
+-  [x]  Calculus 3
 -  [ ]  Workkk
 -  [ ] Philosophy Carl Marx & Lenin
 ###### Chunk
