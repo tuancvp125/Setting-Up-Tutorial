@@ -29,6 +29,8 @@ $ echo 'Fuck pwn'
 -  [ ] Philosophy Carl Marx & Lenin
 ###### Chunk
 ###### Metadata of a chunk
+![image](https://github.com/tuancvp125/skills-communicate-using-markdown/assets/57163498/632e630e-a4c2-42fb-8ea7-f67161e729d4)
+
 ###### Bins
 ####### Fastbin
 ####### Largebin
